@@ -8,7 +8,7 @@
  'I love you with all my heart.',
  'And wish I could be with you on your special day.',
  "Here's a little birthday puzzle for you.",
-   "You'll like it.  There's cake involved."
+   "I think you'll like it. There's cake involved."
 ], 'text',['tomato','rebeccapurple','lightblue']);
 
 hideContainer("wrapper");
